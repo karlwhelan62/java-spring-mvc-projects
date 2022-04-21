@@ -47,7 +47,7 @@ Below are our entities and fields, in 3NF, with attribute types:
 
 Below is our ERD.
 
-![ERD Diagram](/BullsAndCows/src/resources/1-erd.png)
+![ERD Diagram](/BullsAndCows/src/main/resources/1-erd.png)
 
 IMAGE
 
@@ -87,32 +87,32 @@ Bellow we have several screenshots showing the Application working through Postm
 
 1. The result of Get game. Returns all games. Note it includes the rounds nested in the games and that the answer of InProgress game is hidden. 
 
-![Screenshot](/BullsAndCows/src/resources/2-get-game.png)
+![Screenshot](/BullsAndCows/src/main/resources/2-get-game.png)
 
 2. Get game by id. Here we see the info for game with id 1 was retrieved.
 
-![Screenshot](/BullsAndCows/src/resources/3-get-game-by-id.png)
+![Screenshot](/BullsAndCows/src/main/resources/3-get-game-by-id.png)
 
 3. Let’s make a guess with Duplicates. We shouldn’t be able to. And we can’t, we get an unprocessable Entity. 
 
-![Screenshot](/BullsAndCows/src/resources/4-guess-dupes.png)
+![Screenshot](/BullsAndCows/src/main/resources/4-guess-dupes.png)
 
 4. Let’s make a guess. I know the answer is “1234” so I’ll make an incorrect guess first. As you can see the info from the round is returned. We have 3 exact matches and 0 partial matches.
 
-![Screenshot](/BullsAndCows/src/resources/5-guess-not-right.png)
+![Screenshot](/BullsAndCows/src/main/resources/5-guess-not-right.png)
 
 5. Now let’s guess correctly. See we have 4 Exact matches.
 
-![Screenshot](/BullsAndCows/src/resources/6-guess-correct.png)
+![Screenshot](/BullsAndCows/src/main/resources/6-guess-correct.png)
 
 6. Now let’s Fetch our games again. We see that the answer for game 1 is now revealed, and it is no longer in progress, because we guessed correctly, and the game is over.
 
-![Screenshot](/BullsAndCows/src/resources/7-get-finished.png)
+![Screenshot](/BullsAndCows/src/main/resources/7-get-finished.png)
 
 7. Let’s start a new game. See we get a game JSON object as a response and that the answer is hidden.
 
-![Screenshot](/BullsAndCows/src/resources/8-begin.png)
+![Screenshot](/BullsAndCows/src/main/resources/8-begin.png)
 
 8. Finally let’s get the rounds for a given game id. See below.
 
-![Screenshot](/BullsAndCows/src/resources/9-rounds.png)
+![Screenshot](/BullsAndCows/src/main/resources/9-rounds.png)
