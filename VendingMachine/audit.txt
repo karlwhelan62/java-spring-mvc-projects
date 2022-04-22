@@ -1,0 +1,15 @@
+2022-03-22T14:29:23.899946 : Item Vended. Id number: A3 ,Item Name: Tayto Crisps
+2022-03-22T14:36:24.151689 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T14:38:47.036465 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T14:41:30.707170 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T14:53:53.423580 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:13:05.513525 : Item Vended. Id number: A5 ,Item Name: Twix Bar
+2022-03-22T15:16:02.825406 : Item Vended. Id number: B1 ,Item Name: Fredo Bar
+2022-03-22T15:17:33.447219 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:21:38.107005 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:23:07.600089 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:25:29.985319 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:30:03.763204 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:42:11.539059 : Item Vended. Id number: A1 ,Item Name: Can of Coke
+2022-03-22T15:42:33.708442 : Item Vended. Id number: A3 ,Item Name: Tayto Crisps
+2022-03-22T17:41:59.338064 : Item Vended. Id number: A1 ,Item Name: Can of Coke

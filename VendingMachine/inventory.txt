@@ -1,0 +1,7 @@
+A1::Can of Coke::1.50::14
+A2::Can of Fanta::1.40::4
+A3::Tayto Crisps::0.75::8
+A4::Mars Bar::1.00::0
+A5::Twix Bar::0.90::4
+A6::Bottle of Water::1.20::10
+B1::Fredo Bar::0.15::2
