@@ -1,0 +1,10 @@
+0006,Valhalla Rising,10102016,21,Thorsen,Norway Films,Good
+0007,Dune,21102021,15,Denis Villeneuve,Legendary Pictures,magical
+0004,La Haine,31051995,R,M Kassovitz,Canal+,Amazing
+0005,Gladiator,10052000,15,Ridley Scott,DreamWorks,Ridley Scott's Gladiator is an epic film with quotes to match
+0011,Enter The Dragon,25051973,R,Robert Clouse,Orange Sky,Cult Classic Bruce Lee Film
+0001,The Thing,28111982,R,John Carpenter,Universal,Classic Horror
+0012,The Lion King,21101994,G,RogerAllers,Disney,Animation
+0010,The Proposition,10042015,18,N. Cave,AMG,Excellent
+0008,SpaceBalls,20031983,12,M. Brooks,Warner,Funny
+0009,Arrival,10092016,12,Dennis Villeneuve,FilmNation Entertainment,94% Approval rating on Rotten Tomatoes
